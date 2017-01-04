@@ -1,7 +1,5 @@
 /build
-libs/
-src/
 .gradle
-gradle
+gradlew.bat
 .idea
 *.iml
